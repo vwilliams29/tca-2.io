@@ -36,3 +36,10 @@ body {
   height: 75%;
   width: 80%;
 }
+.Gallery {
+  text-align: center;
+}
+.image {
+  height: 100%;
+  width: 100%;
+}
